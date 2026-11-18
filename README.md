@@ -24,6 +24,10 @@ To install Python Fire with conda, run: `conda install fire -c conda-forge`
 To install Python Fire from source, first clone the repository and then run:
 `python setup.py install`
 
+## Quickstart
+
+New to Python Fire? Start with the [Quickstart guide](docs/quickstart.md) for installation, a function-based CLI, and a class-based CLI.
+
 ## Basic Usage
 
 You can call `Fire` on any Python object:<br>
